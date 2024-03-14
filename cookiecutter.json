@@ -2,4 +2,6 @@
   "project_name": "cookiecutter-template-repo",
   "license": "MIT",
   "version": "0.1.0"
+  "name": "John Doe",
+  "team": "team name"
 }
