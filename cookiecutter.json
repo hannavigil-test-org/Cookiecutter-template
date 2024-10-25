@@ -3,6 +3,6 @@
   "license": "MIT",
   "version": "0.1.0",
   "name": "John Doe",
-  "team": "team name"
+  "team": "team name",
   "a_super_duper_long_variable_name_so_we_can_test_what_it_looks_like_in_the_ui": "Long name"
 }
