@@ -1,5 +1,8 @@
 {
-  "test_var": "test",
-  "project_name": "cookiecutter-template-repo",
-  "version": "0.1.0"
+ "project_name": "cookiecuter-template-repo",
+  "license": "MIT",
+  "version": "0.1.0",
+  "_copy_without_render": [
+    "src/**"
+  ]
 }
