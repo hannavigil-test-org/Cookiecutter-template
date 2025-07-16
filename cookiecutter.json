@@ -1,8 +1,18 @@
 {
  "project_name": "cookiecuter-template-repo",
-  "license": "MIT",
+  "license": "",
   "version": "0.1.0",
   "_copy_without_render": [
     "src/**"
-  ]
+  ],
+ "_cortex_field_configurations": {
+    "license": {
+      "description": "Example: MIT",
+      "placeholder": "MIT"
+    },
+  "project_name": {
+    "description": "Name of the project",
+    "placeholder": "Example: My project"
+  }
+ }
 }
