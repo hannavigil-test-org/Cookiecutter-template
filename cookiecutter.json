@@ -5,7 +5,7 @@
   "_copy_without_render": [
     "src/**"
   ],
-  "email": ["test", "test2"]
+  "email": ["test", "test2"],
  "_cortex_field_configurations": {
     "license": {
       "description": "Example: MIT",
