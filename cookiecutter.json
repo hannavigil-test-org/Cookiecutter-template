@@ -5,6 +5,7 @@
   "_copy_without_render": [
     "src/**"
   ],
+  "email": ["test", "test2"]
  "_cortex_field_configurations": {
     "license": {
       "description": "Example: MIT",
@@ -13,7 +14,6 @@
   "project_name": {
     "description": "Name of the project",
     "placeholder": "Example: My project"
-  },
-  "email": ["test", "test2"]
+  }
  }
 }
