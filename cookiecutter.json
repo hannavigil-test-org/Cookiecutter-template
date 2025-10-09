@@ -13,6 +13,7 @@
   "project_name": {
     "description": "Name of the project",
     "placeholder": "Example: My project"
-  }
+  },
+  "email": ["test", "test2"]
  }
 }
