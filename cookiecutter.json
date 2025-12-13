@@ -2,9 +2,6 @@
   "repo_name": "service-example",
   "project_name": "Example",
   "project_description": "A backend service for managing example domain",
-  "dotnet_version": ["10.0", "8.0", "6.0"],
-  "include_migrations": ["yes", "no"],
-  "include_api_client": ["yes", "no"],
   "team_name": "Platform Team",
   "team_email": "test",
   "owner_name": "Your Name"
