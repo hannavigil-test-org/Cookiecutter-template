@@ -4,5 +4,6 @@
   "project_description": "A backend service for managing example domain",
   "team_name": "Platform Team",
   "team_email": "test",
-  "owner_name": "Your Name"
+  "owner_name": "Your Name",
+  "version": "0.1.0"
 }
